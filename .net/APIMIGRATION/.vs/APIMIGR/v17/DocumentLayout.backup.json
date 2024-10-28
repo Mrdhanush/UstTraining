@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\migrations\\20241012102908_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\migrations\\20241012102908_initail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\apimigr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\apimigr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|c:\\users\\administrator\\source\\repos\\apimigr\\apimigr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{809242C0-1ED7-4CD6-BB7A-EC910460BEC7}|APIMIGR\\APIMIGR.csproj|solutionrelative:apimigr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\ProductRepository.cs*",
+              "RelativeToolTip": "APIMIGR\\Repository\\ProductRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:59:09.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "APIMIGR\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:55:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "APIMIGR\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:10:22.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Data\\ProductContext.cs",
+              "RelativeToolTip": "APIMIGR\\Data\\ProductContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:44:31.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "APIMIGR\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:17:33.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Models\\Product.cs",
+              "RelativeToolTip": "APIMIGR\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:37:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "APIMIGR\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:27:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "APIMIGR\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:32:21.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Models\\Category.cs",
+              "RelativeToolTip": "APIMIGR\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:42:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241012102908_initail.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Migrations\\20241012102908_initail.cs",
+              "RelativeDocumentMoniker": "APIMIGR\\Migrations\\20241012102908_initail.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\Migrations\\20241012102908_initail.cs",
+              "RelativeToolTip": "APIMIGR\\Migrations\\20241012102908_initail.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:29:09.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\appsettings.json",
+              "RelativeDocumentMoniker": "APIMIGR\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\appsettings.json",
+              "RelativeToolTip": "APIMIGR\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T09:51:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIMIGR.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\APIMIGR.csproj",
+              "RelativeDocumentMoniker": "APIMIGR\\APIMIGR.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\APIMIGR\\APIMIGR\\APIMIGR.csproj",
+              "RelativeToolTip": "APIMIGR\\APIMIGR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T09:43:43.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
