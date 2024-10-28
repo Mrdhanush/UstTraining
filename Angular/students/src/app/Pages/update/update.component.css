@@ -1,0 +1,62 @@
+.student-list-container {
+    max-width: 800px; /* Set a maximum width for the container */
+    margin: 2rem auto; /* Center the container */
+    padding: 1.5rem;
+    background-color: #f8f9fa; /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners for aesthetics */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+h1 {
+    text-align: center; /* Center the heading */
+    color: #343a40; /* Darker text for visibility */
+}
+
+.student-table {
+    width: 100%; /* Full width for the table */
+    border-collapse: collapse; /* Collapse borders for a cleaner look */
+    margin-top: 1rem; /* Space above the table */
+}
+
+.student-table th,
+.student-table td {
+    border: 1px solid #dee2e6; /* Light border for table cells */
+    padding: 0.75rem; /* Padding inside cells */
+    text-align: left; /* Left align text in cells */
+}
+
+.student-table th {
+    background-color: #007bff; /* Header background color */
+    color: white; /* White text for header */
+}
+
+.student-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Zebra striping for table rows */
+}
+
+.edit-btn,
+.delete-btn {
+    padding: 0.5rem 1rem; /* Button padding */
+    border: none; /* No border for buttons */
+    border-radius: 4px; /* Rounded corners for buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 0.9rem; /* Font size for buttons */
+}
+
+.edit-btn {
+    background-color: #ffc107; /* Edit button color */
+    color: white; /* White text for contrast */
+}
+
+.edit-btn:hover {
+    background-color: #e0a800; /* Darker shade on hover */
+}
+
+.delete-btn {
+    background-color: #dc3545; /* Delete button color */
+    color: white; /* White text for contrast */
+}
+
+.delete-btn:hover {
+    background-color: #c82333; /* Darker shade on hover */
+}

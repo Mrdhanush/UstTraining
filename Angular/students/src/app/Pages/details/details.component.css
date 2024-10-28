@@ -1,0 +1,19 @@
+.student-details-container {
+    padding: 20px;
+}
+
+.student-details {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.student-details p {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.student-details strong {
+    color: #333;
+}

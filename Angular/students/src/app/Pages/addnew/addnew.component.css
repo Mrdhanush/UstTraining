@@ -1,0 +1,59 @@
+.add-student-container {
+    max-width: 600px; /* Set a maximum width for the form */
+    margin: 2rem auto; /* Center the form on the page */
+    padding: 1.5rem;
+    background-color: #f8f9fa; /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners for aesthetics */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}
+
+h1 {
+    text-align: center; /* Center the heading */
+    color: #343a40; /* Darker text for visibility */
+}
+
+.student-form {
+    display: flex; /* Flexbox layout for form elements */
+    flex-direction: column; /* Stack items vertically */
+}
+
+.form-group {
+    margin-bottom: 1rem; /* Space between form elements */
+}
+
+label {
+    margin-bottom: 0.5rem; /* Space between label and input */
+    font-weight: bold; /* Bold labels for clarity */
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"],
+select {
+    width: 100%; /* Full width for inputs */
+    padding: 0.5rem; /* Padding for comfort */
+    border: 1px solid #ced4da; /* Light border */
+    border-radius: 4px; /* Rounded corners for inputs */
+    font-size: 1rem; /* Consistent font size */
+}
+
+input:focus,
+select:focus {
+    border-color: #007bff; /* Highlight border on focus */
+    outline: none; /* Remove default outline */
+}
+
+.submit-btn {
+    background-color: #007bff; /* Primary button color */
+    color: white; /* White text for contrast */
+    padding: 0.75rem; /* Button padding */
+    border: none; /* No border for button */
+    border-radius: 4px; /* Rounded corners for button */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 1rem; /* Consistent font size */
+    transition: background-color 0.3s ease; /* Smooth hover transition */
+}
+
+.submit-btn:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}

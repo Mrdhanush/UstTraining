@@ -1,0 +1,38 @@
+/* Basic styling for navigation bar */
+nav {
+    background-color: #343a40;  /* Dark background for a modern look */
+    padding: 1rem;
+    border-radius: 5px; /* Soft corners for a polished look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  /* Styling the list inside the navigation */
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;  /* Distribute items evenly */
+    align-items: center;
+  }
+  
+  /* Styling for each list item */
+  nav ul li {
+    margin: 0;
+  }
+  
+  /* Styling the anchor links */
+  nav ul li a {
+    text-decoration: none;
+    color: #f8f9fa;  /* Light color for good contrast */
+    padding: 10px 15px;
+    font-weight: bold;
+    transition: all 0.3s ease;  /* Smooth hover effect */
+    border-radius: 4px; /* Rounded button-like appearance */
+  }
+  
+  /* Hover effect for links */
+  nav ul li a:hover {
+    background-color: #007bff;  /* Light blue background */
+    
+  }  
